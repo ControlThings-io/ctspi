@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/603/trunk/scripts/pyBusPirateLite/pyBusPirateLite
+END
+UART.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/582/trunk/scripts/pyBusPirateLite/pyBusPirateLite/UART.py
+END
+SPI.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/59/trunk/scripts/pyBusPirateLite/pyBusPirateLite/SPI.py
+END
+I2Chigh.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/547/trunk/scripts/pyBusPirateLite/pyBusPirateLite/I2Chigh.py
+END
+I2C.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/547/trunk/scripts/pyBusPirateLite/pyBusPirateLite/I2C.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/59/trunk/scripts/pyBusPirateLite/pyBusPirateLite/__init__.py
+END
+RAW_WIRE.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/353/trunk/scripts/pyBusPirateLite/pyBusPirateLite/RAW_WIRE.py
+END
+rawwire.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/trunk/scripts/pyBusPirateLite/pyBusPirateLite/rawwire.py
+END
+BitBang.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/603/trunk/scripts/pyBusPirateLite/pyBusPirateLite/BitBang.py
+END
+1wire.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/59/trunk/scripts/pyBusPirateLite/pyBusPirateLite/1wire.py
+END
